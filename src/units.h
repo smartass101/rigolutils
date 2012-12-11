@@ -5,6 +5,7 @@
 #include <iostream>
 #include <map>
 #include "simple_except.h"
+#include <stdint.h> // for uint32_t on Linux
 
 namespace units {
 //******************************************************************************
