@@ -1,6 +1,7 @@
 
 #include "cfgmap.h"
 #include <stdio.h>
+#include <stdlib.h> // for strtol on Linux 64bit, Gentoo
 #include <iostream>
 
 using namespace std;
