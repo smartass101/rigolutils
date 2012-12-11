@@ -6,7 +6,7 @@
 #include <stdexcept>
 #include <cstdio>
 #include <stdarg.h>
-
+#include <stdlib.h> // for free() on Linux
 
 #if(1)
 #define FORMATTED_ERROR_CONS  \
